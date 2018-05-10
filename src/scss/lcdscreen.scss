@@ -1,0 +1,18 @@
+.LCDScreen {
+  background: #9ea18c;
+  padding: 5px 15px 20px;
+  text-align: center;
+  height: 60px;
+  border:5px solid black;
+  border-radius:25px;
+  
+}
+
+.LCDScreen__output {
+  position: relative;
+  font-family: 'LCD';
+  font-size: 4em;
+  line-height: 1;
+  color: #000;
+  letter-spacing: 20px;
+}

@@ -1,0 +1,11 @@
+.lock {
+  width: 30px;
+  height: 30px;
+  background: green;
+  margin : 10% auto;
+  border:5px solid black;
+  border-radius:100%;
+  &.locked {
+    background: red;
+  }
+}

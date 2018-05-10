@@ -1,0 +1,16 @@
+.keypad {
+	border:5px solid black;
+	padding :15px;
+	background-color: grey;
+	width: 300px;
+	height: 160px;
+	margin:auto;
+}
+.keypad__key {
+  .keypad__key--button {
+  	width: 100px;
+    height: 40px;
+    background-color: white;
+    float: left;
+  }
+}

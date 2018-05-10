@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'LCD';
+  src: url('../fonts/Open24DisplaySt.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+.hotelSafe {
+  display: flex;
+  max-width: 800px;
+  padding: 20px;
+  background: #2A3F54;
+}
+
+.column--half {
+  display: flex;
+  flex: 1 0 50%;
+}
+.flex--column {
+  flex-direction: column;
+}
